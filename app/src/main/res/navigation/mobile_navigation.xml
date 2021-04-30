@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:id="@+id/mobile_navigation"
+            app:startDestination="@+id/navigation_home">
+
+    <fragment
+            android:id="@+id/navigation_home"
+            android:name="ca.uwaterloo.cs349.HomeFragment"
+            android:label="@string/title_home"
+            tools:layout="@layout/fragment_home"/>
+
+    <fragment
+            android:id="@+id/navigation_library"
+            android:name="ca.uwaterloo.cs349.LibraryFragment"
+            android:label="@string/title_library"
+            tools:layout="@layout/fragment_library">
+        <action android:id="@+id/action_navigation_library_to_navigation_addition"
+                app:destination="@id/navigation_addition"/>
+    </fragment>
+
+    <fragment
+            android:id="@+id/navigation_addition"
+            android:name="ca.uwaterloo.cs349.AdditionFragment"
+            android:label="@string/title_addition"
+            tools:layout="@layout/fragment_addition"/>
+</navigation>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">A4-CS349</string>
+    <string name="title_home">Recognition</string>
+    <string name="title_library">Library</string>
+    <string name="title_addition">Addition</string>
+    <string name="draw">Draw</string>
+    <string name="add">Add</string>
+    <string name="done">Done</string>
+    <string name="reset">Reset</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="dialog_ask_gesture_name">Enter the name of the new gesture:</string>
+    <string name="dialog_ask_gesture_rename">Enter the new name of the gesture:</string>
+    <string name="description_gesture_thumbnail">the gesture thumbnail should be here</string>
+    <string name="no1">No.1</string>
+    <string name="no2">No.2</string>
+    <string name="no3">No.3</string>
+</resources>
