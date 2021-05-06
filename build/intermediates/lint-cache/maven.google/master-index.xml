@@ -11,6 +11,7 @@
   <androidx.ads/>
   <androidx.annotation/>
   <androidx.appcompat/>
+  <androidx.appsearch/>
   <androidx.arch.core/>
   <androidx.asynclayoutinflater/>
   <androidx.autofill/>
@@ -96,12 +97,14 @@
   <androidx.viewpager/>
   <androidx.viewpager2/>
   <androidx.wear/>
+  <androidx.wear.tiles/>
   <androidx.webkit/>
   <androidx.window/>
   <androidx.work/>
   <com.android/>
   <com.android.application/>
   <com.android.asset-pack/>
+  <com.android.asset-pack-bundle/>
   <com.android.billingclient/>
   <com.android.databinding/>
   <com.android.dynamic-feature/>
@@ -146,6 +149,8 @@
   <com.google.android.ads.consent/>
   <com.google.android.apps.common.testing.accessibility.framework/>
   <com.google.android.datatransport/>
+  <com.google.android.enterprise.connectedapps/>
+  <com.google.android.exoplayer/>
   <com.google.android.fhir/>
   <com.google.android.games/>
   <com.google.android.gms/>
@@ -165,6 +170,7 @@
   <com.google.ar.sceneform/>
   <com.google.ar.sceneform.ux/>
   <com.google.assistant.suggestion/>
+  <com.google.chromeos/>
   <com.google.devtools.ksp/>
   <com.google.fhir/>
   <com.google.firebase/>
