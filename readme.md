@@ -24,8 +24,8 @@ Open this project with Intellij IDEA or Android Studio and deploy on the Pixel 3
 
 # Demo
 ## Adding Gesture
-Instruction: 1. Go to the addition screen by choosing addition in the nevigation bar at the bottom.
-2. Draw the gesture you want to add.
+Instruction: 1. Go to the addition screen by choosing addition in the nevigation bar at the bottom. \
+2. Draw the gesture you want to add. \
 3. Click clear to reset the screen; click done and enter the name, then confirm to add the new gesture to the library.
 <p>
 <img src="https://github.com/DaveHJT/Andriod-Gesture-Recognizer/blob/main/demo/addition.gif?raw=true" width="300">
@@ -33,14 +33,14 @@ Instruction: 1. Go to the addition screen by choosing addition in the nevigation
 
 ## Gesture Library
 Instruction: 
-Gesture library contained all the gestures that you added before. You can click on the gesture to edit, rename or delete the gesture. 
+Gesture library contained all the gestures that you added before. You can click on the gesture to edit, rename or delete the gesture.  \
 Here is a demo of edit, rename and delete operation.
 <p>
 <img src="https://github.com/DaveHJT/Andriod-Gesture-Recognizer/blob/main/demo/library.gif?raw=true" width="300">
 </p>
 
 ## Recognition
-Instruction: In the recognition screen, draw a gesture you previously added to the library, and the top three matches will appear at the bottom of the screen. 
+Instruction: In the recognition screen, draw a gesture you previously added to the library, and the top three matches will appear at the bottom of the screen. \
 PS: You can change the scale and direction of the gesture, or even draw the gesture in a reversed way (end point becomes the start point), and it will still be recognized. But remember the mirrored gesture is not the same gesture as the original one.
 <p>
 <img src="https://github.com/DaveHJT/Andriod-Gesture-Recognizer/blob/main/demo/recognition.gif?raw=true" width="300">
