@@ -26,7 +26,7 @@ Open this project with Intellij IDEA or Android Studio and deploy on the Pixel 3
 ## Adding Gesture
 Instruction: 1. Go to the addition screen by choosing addition in the nevigation bar at the bottom. \
 2. Draw the gesture you want to add. \
-3. Click clear to reset the screen; click done and enter the name, then confirm to add the new gesture to the library.
+3. Click cancel to reset the screen; click done and enter the name, then confirm to add the new gesture to the library.
 <p>
 <img src="https://github.com/DaveHJT/Andriod-Gesture-Recognizer/blob/main/demo/addition.gif?raw=true" width="300">
 </p>
